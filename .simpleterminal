@@ -1,0 +1,14 @@
+
+>>>> SIMPLE TERMINAL - BASİT TERMİNAL <<<<<
+
+* paketkur (Paket kurma komutudur)
+* paketsil (Paket kaldırma komutudur)
+* paketara (Açıklamaları ile birlikte paket arama komutudur)
+* yenile (Yansı yenileme komutudur)
+* guncelle (Sistem güncelleme komutudur)
+* listele (En hızlı 15 yansıyı seçme ve yenileme komutudur)
+* yukselt (En hızlı 15 yansıyı seçip sistemi en son sürüme yükseltme komutudur)
+* kilitsil (Pacman veritabanı kilitli kaldığında kilit silme komutudur)
+* temizle (Önbellekte bekleyen eski paketleri ve listeleri silme komutudur)
+* bilgi (Paket hakkında inşa bilgilerini veren komuttur)
+* aur (Aur depodan paket kurma komutudur)
