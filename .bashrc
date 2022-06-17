@@ -23,5 +23,5 @@ alias yukselt="sudo reflector --verbose --latest 15 --sort rate --save /etc/pacm
 alias kilitsil="sudo rm /var/lib/pacman/db.lck"
 alias temizle="sudo pacman -Scc"
 alias bilgi="sudo pacman -Qi"
-alias aur="trizen -S"
+alias aur="yay -S"
 alias komutlar="cat ~/.simpleterminal"
