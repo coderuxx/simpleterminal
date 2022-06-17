@@ -1,6 +1,6 @@
 #
-# Simple Terminal V2.0
-# https://github.com/simpleterminal/simpleterminal
+# Simple Terminal V3.0
+# https://github.com/fintuxtr/simpleterminal
 # The MIT License https://opensource.org/licenses/MIT
 #
 
