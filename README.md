@@ -31,7 +31,7 @@ Terminalde (Uçbirimde) **komutlar** yazarak kolayca komutlar hakkında yardım 
 Kurulum için aşağıdaki komutları sırasıyla **terminale (uçbirime)** yazmanız ve her komuttan sonra enter tuşuna basarak komutları uygulamanız yeterlidir.
 
 ```
-wget https://github.com/simpleterminal/simpleterminal/archive/master.zip
+wget https://github.com/fintuxtr/simpleterminal/archive/master.zip
 unzip master.zip
 cd simpleterminal-master
 mv .simpleterminal .bashrc .zshrc ~/
